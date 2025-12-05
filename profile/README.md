@@ -341,7 +341,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support, please:
 - Open an issue on GitHub
-- Contact: support@cs02.example.com
+- Start or follow discussion threads in our GitHub Discussions: https://github.com/orgs/CSO2/discussions
 
 ---
 
