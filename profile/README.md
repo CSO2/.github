@@ -89,7 +89,7 @@ CS02 Computer Store is a comprehensive **microservices-based e-commerce platform
 ### Backend
 | Technology | Purpose |
 |------------|---------|
-| Spring Boot 3.5 | Java microservices (8 services) |
+| Spring Boot 4.0.0 | Java microservices (8 services) |
 | Go (Chi) | API Gateway |
 | FastAPI | AI Service (Python) |
 | Spring Security | Authentication |
