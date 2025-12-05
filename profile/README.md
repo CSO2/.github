@@ -3,7 +3,7 @@
 > A Full-Stack E-Commerce Platform for PC Components and Custom PC Building
 
 [![Frontend](https://img.shields.io/badge/Frontend-Next.js%2016-black?logo=next.js)](frontend/)
-[![Backend](https://img.shields.io/badge/Backend-Spring%20Boot%203.5-green?logo=spring)](backend/)
+[![Backend](https://img.shields.io/badge/Backend-Spring%20Boot%204.0.0-green?logo=spring)](backend/)
 [![API Gateway](https://img.shields.io/badge/Gateway-Go-00ADD8?logo=go)](backend/api-gateway/)
 [![AI Service](https://img.shields.io/badge/AI-FastAPI-009688?logo=fastapi)](backend/AI-service/)
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker)](docker-compose.yml)
